@@ -1,0 +1,11 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.8
+python-dotenv>=1.0
+requests>=2.32
+pyodbc>=5.1
+azure-identity>=1.19
+openai>=1.60
+pyyaml>=6.0
+pyarrow>=18.0
+deltalake>=0.32.0
